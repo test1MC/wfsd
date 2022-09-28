@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="en-au" xml:lang="en-au" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="false">
+    <ProjectFile Source="Target/Content/%2A.%2A" Target="Target/Content/%2A.%2A" />
+</LingoProject>
